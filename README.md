@@ -16,7 +16,7 @@ Text and Speech Output: Converts interpreted gestures into text displayed on an 
 User-Friendly Interface: Ensures accessibility for individuals with hearing or visual impairments and those unfamiliar with sign language.
 
 ## Schematic
-(https://github.com/Sak456123/SignScribe/blob/b76687440ca21d4892c0e6de5694592ccd6b6b3b/SignScribe%20Schematics.png)
+![image alt](https://github.com/Sak456123/SignScribe/blob/b76687440ca21d4892c0e6de5694592ccd6b6b3b/SignScribe%20Schematics.png)
 
 ## Implementation
 
